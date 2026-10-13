@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wojciech\\Documents\\Studia\\ROK3\\Projekt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B1F13D-7967-47EE-93F9-5BA375A7E92A}|Projekt1\\Projekt1.vcxproj|C:\\Users\\Wojciech\\Documents\\Studia\\ROK3\\Projekt1\\Projekt1\\Projekt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B1F13D-7967-47EE-93F9-5BA375A7E92A}|Projekt1\\Projekt1.vcxproj|solutionrelative:Projekt1\\Projekt1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projekt1.cpp",
+              "DocumentMoniker": "C:\\Users\\Wojciech\\Documents\\Studia\\ROK3\\Projekt1\\Projekt1\\Projekt1.cpp",
+              "RelativeDocumentMoniker": "Projekt1\\Projekt1.cpp",
+              "ToolTip": "C:\\Users\\Wojciech\\Documents\\Studia\\ROK3\\Projekt1\\Projekt1\\Projekt1.cpp",
+              "RelativeToolTip": "Projekt1\\Projekt1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T07:56:06.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
