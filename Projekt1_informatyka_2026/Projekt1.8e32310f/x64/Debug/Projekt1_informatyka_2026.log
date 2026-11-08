@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Wojciech\Documents\Studia\ROK3\INFORMATYKA\Projekt1_informatyka_2026\Source.cpp(28,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wojciech\Documents\Studia\ROK3\INFORMATYKA\Projekt1_informatyka_2026\Source.cpp(62,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wojciech\Documents\Studia\ROK3\INFORMATYKA\Projekt1_informatyka_2026\Source.cpp(69,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wojciech\Documents\Studia\ROK3\INFORMATYKA\Projekt1_informatyka_2026\Source.cpp(70,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Projekt1_informatyka_2026.vcxproj -> C:\Users\Wojciech\Documents\Studia\ROK3\INFORMATYKA\Projekt1_informatyka_2026\x64\Debug\Projekt1_informatyka_2026.exe
